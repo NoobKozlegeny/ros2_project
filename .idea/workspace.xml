@@ -19,9 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78726711-442d-40f2-b2f0-87c8604bff38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot_control/my_node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot_control/turtlebot_controller_launch.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <workItem from="1683741372674" duration="70000" />
       <workItem from="1683741450243" duration="1420000" />
       <workItem from="1683743115018" duration="6725000" />
-      <workItem from="1683889020343" duration="8742000" />
+      <workItem from="1683889020343" duration="9153000" />
     </task>
     <servers />
   </component>
